@@ -1,3 +1,4 @@
+# Clustering of Non-Overlapping dFNCs using the lower triangle of dFNCS
 1. Computed non - overlapping dfnc using window length of 31
 2. Size each sample is having 157 TC, window length 31 the dFNcs generated for each sample is 5
 3. Total 101x5 + 103x5 dFNCs
